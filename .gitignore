@@ -1,0 +1,11 @@
+/target
+node_modules/
+*.wasm
+!examples/*.json
+.env
+*.env
+*_state.json
+seen_otp.txt
+customer_real*.json
+__pycache__/
+.DS_Store
